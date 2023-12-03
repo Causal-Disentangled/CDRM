@@ -1,7 +1,7 @@
 # CDRM-Causal-Disentangled-Representation-Learning-for-Missing-Data
 ##Generate data
-##/causal_data/flow      flow dataset
-##/causal_data/pendulum  pendulum dataset
+  /causal_data/flow      flow dataset
+  /causal_data/pendulum  pendulum dataset
 
 ##GNN imputation data
 /causal_data/train_flow
